@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'square';
+    src: url(heheboi.ttf);
+}
+body{
+    font-family: 'square';
+}
+
+.sheesh{
+width: calc(775px/1.5);
+height: calc(145px/1.5);
+margin-top: 19%;
+margin-left: 1em;
+
+background: rgba(0, 0, 0, 0.137);
+border-radius: 28px;
+}
+.inpoot{
+    border: none;
+    background-color: transparent;
+    font-family: 'square';
+    color: black;
+    font-size: 1.5em;
+    padding-left: 1em;
+    margin-top: 1.5em;
+    outline: none;
+}
+.lmao{
+    outline: none;
+    border: none;
+    background-color: transparent;
+    font-family: 'square';
+    font-size: 1.3em;
+    cursor: pointer;
+    margin-left: 22em;
+    margin-top: 0.9em;
+    color: black;
+}
